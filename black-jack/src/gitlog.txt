@@ -1,0 +1,71 @@
+commit f0bc92e2d41a490bd170a8d2db065941967c8f96
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 20:37:58 2020 +1100
+
+    Final BLackjack.
+
+commit 96a081a02d2045456c14f20e632a0b89ac1bf96a
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 15:08:42 2020 +1100
+
+    Gem - Colorize added to strings
+
+commit dd74bb67b001bacaacacc09cba1c3f73da788d1c
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 13:28:17 2020 +1100
+
+    Game loop added. Ace = 11
+
+commit 68a24bdcda22fb968880a0f4b6422b9d3587a6d4
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 05:24:22 2020 +1100
+
+    Double down added.
+
+commit d0ad5d5832669124ffd322a4a1a7fc5c7576b076
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 04:34:40 2020 +1100
+
+    Bet system implemented
+
+commit adf88d86dd138c07beeb14ac33c8b17506837490
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 03:09:45 2020 +1100
+
+    Table Terminal - Cheatsheet added.
+
+commit 873b9be0164c3abe65711be80d49a7b923e34129
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 00:54:45 2020 +1000
+
+    Player bank set. Blackjack round initialized.
+
+commit 8b90f011e6d1140c62308101e5691ef2dcf1a32f
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 00:52:01 2020 +1000
+
+    Game instance initialized + player options
+
+commit dd86beb45b5298bd8cca1473c7b331907abd1987
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sun Oct 4 00:49:09 2020 +1000
+
+    Modified Card & Deck class. Special card values updated
+
+commit 5cf7c19714d1b278d26375d3c1bc5d3eac5332ce
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sat Oct 3 12:10:30 2020 +1000
+
+    Player verse house. No check methods
+
+commit e23f91a6eb1396e1b092b7f628d9654ec38886cb
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Sat Oct 3 02:21:44 2020 +1000
+
+    Player Class initiated, Start - Documentation
+
+commit d447d72fb416a7917ab052fede2f3361287fb600
+Author: Soni-247 <sonifisi@Gmail.com>
+Date:   Fri Oct 2 18:21:13 2020 +1000
+
+    Cards and Deck added.
